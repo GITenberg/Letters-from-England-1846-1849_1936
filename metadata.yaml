@@ -1,5 +1,5 @@
 _repo: Letters-from-England-1846-1849_1936
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: archival
   image_path: 1936-h/images/coverb.jpg
@@ -26,5 +26,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'England -- Description and travel'
 - !lcc 'DA'
+- GITenberg
 title: Letters from England, 1846-1849
 url: http://www.gutenberg.org/ebooks/1936
